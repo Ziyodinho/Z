@@ -1,0 +1,11 @@
+{
+  "name": "OH",
+  "displayName": "O‘rmon Himoya",
+  "extra": {
+    "eas": {
+      "projectId": "be072d8c-9dd7-4a46-9238-b6299f2d6f82"
+    }
+  },
+  "owner": "ziyod",
+  "slug": "ormon-himoyasi"
+}
