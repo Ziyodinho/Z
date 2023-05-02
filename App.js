@@ -123,10 +123,10 @@ export default function App() {
     headerStyle: {
       
       backgroundColor: '#fff',
-       elevation: 1,
-      shadowColor: "#eee",
+       elevation: 7,
+      shadowColor: "#000",
   shadowOpacity: 0.5,
-  shadowRadius: 10,
+  shadowRadius: 2,
   
     },
     headerTitleStyle: {

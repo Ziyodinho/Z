@@ -8,6 +8,7 @@ const Id = () => {
     container: {
       backgroundColor: '#fff',
       flex: 1,
+      paddingTop: 10,
       paddingLeft: 10,
       paddingRight: 10,
     },

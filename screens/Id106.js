@@ -2,6 +2,8 @@ import React, { useState, useLayoutEffect } from "react";
 import { StyleSheet, ScrollView, View, TouchableOpacity, SafeAreaView, Text,  Linking  } from "react-native";
 import Card from "../GCard";
 import data from "../data";
+import {ViewPropTypes} from 'deprecated-react-native-prop-types';
+
 
 
 const Galereya = ({ navigation }) => {
