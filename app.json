@@ -1,16 +1,10 @@
 {
-
-  "jsEngine": "jsc",
   "name": "OH",
-  "owner": "ziyod",
-  "slug": "ormon-himoyasi",
   "extra": {
     "eas": {
-      "projectId": "498fd83b-4383-4232-9a68-8bfaffac0c45"
+      "projectId": "be072d8c-9dd7-4a46-9238-b6299f2d6f82"
     }
   },
-  "runtimeVersion": "1.0.0",
-  "updates": {
-    "url": "https://u.expo.dev/498fd83b-4383-4232-9a68-8bfaffac0c45"
-  },
-  }
+  "owner": "ziyod",
+  "slug": "ormon-himoyasi"
+}
