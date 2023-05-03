@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { StyleSheet, ScrollView, FlatList, SafeAreaView, Platform } from "react-native";
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 
 import MainScreen from "./MainScreen";
 import Card from "./Card";
