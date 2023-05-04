@@ -44,7 +44,7 @@ const Id = () => {
       shadowRadius: 5,
 borderRadius: 10,
     }} 
-        source={require("./m_html_86c5979c99405601.jpg")}/>
+        source={require("./html/m_html_86c5979c99405601.jpg")}/>
 
     </ScrollView></SafeAreaView >
      

@@ -44,7 +44,7 @@ const Id = () => {
       shadowRadius: 5,
 borderRadius: 10,
     }} 
-        source={require("./m_html_94d95e8c25323286.jpg")} name="Рисунок 113" align="bottom" width="299" height="222" border="0"/>
+        source={require("./html/m_html_94d95e8c25323286.jpg")} name="Рисунок 113" align="bottom" width="299" height="222" border="0"/>
       <Image style=
     {{ 
       width: '100%', 
@@ -63,7 +63,7 @@ borderRadius: 10,
       shadowRadius: 5,
 borderRadius: 10,
     }} 
-        source={require("./m_html_9ad625484db1d89f.jpg")} name="Рисунок 116" align="bottom" width="283" height="222" border="0"/>
+        source={require("./html/m_html_9ad625484db1d89f.jpg")} name="Рисунок 116" align="bottom" width="283" height="222" border="0"/>
 
     </ScrollView></SafeAreaView >
      

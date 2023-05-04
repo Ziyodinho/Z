@@ -44,7 +44,7 @@ import RenderHtml from 'react-native-render-html';
       shadowRadius: 5,
 borderRadius: 10,
     }} 
-        source={require("./i_html_5083e5b993234d3.jpg")} />
+        source={require("./html/i_html_5083e5b993234d3.jpg")} />
       <Image style=
     {{ 
       width: '100%', 
@@ -63,7 +63,7 @@ borderRadius: 10,
       shadowRadius: 5,
 borderRadius: 10,
     }} 
-        source={require("./i_html_9543fdfeea6a9841.jpg")}/>
+        source={require("./html/i_html_9543fdfeea6a9841.jpg")}/>
 
       <Image style=
     {{ 
@@ -83,7 +83,7 @@ borderRadius: 10,
       shadowRadius: 5,
 borderRadius: 10,
     }} 
-        source={require("./i_html_3c97dc8055673077.jpg")} />
+        source={require("./html/i_html_3c97dc8055673077.jpg")} />
 
       <Image style=
     {{ 
@@ -103,7 +103,7 @@ borderRadius: 10,
       shadowRadius: 5,
 borderRadius: 10,
     }} 
-        source={require("./i_html_a6d340da0f79e1e6.jpg")}/>
+        source={require("./html/i_html_a6d340da0f79e1e6.jpg")}/>
     </ScrollView></SafeAreaView >
      
   );

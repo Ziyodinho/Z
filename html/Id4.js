@@ -41,7 +41,7 @@ const Id = () => {
       borderRadius: 10,
 
     }} 
-        source={require("./Id4.jpg")}/>
+        source={require("./html/Id4.jpg")}/>
 
     </ScrollView></SafeAreaView >
      

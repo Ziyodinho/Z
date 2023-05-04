@@ -43,7 +43,7 @@ const Id = () => {
       },
       shadowOpacity: 0.25,
       shadowRadius: 3.84,
- }} source={require("./i_html_c43a03400d387f51.jpg")} />
+ }} source={require("./html/i_html_c43a03400d387f51.jpg")} />
       
       <Image style={{ width: '100%',
   aspectRatio: 1,
@@ -60,7 +60,7 @@ const Id = () => {
       },
       shadowOpacity: 0.25,
       shadowRadius: 3.84,
- }} source={require("./Id1_1.jpg")} />
+ }} source={require("./html/Id1_1.jpg")} />
        <Image style={{ width: '100%',
   aspectRatio: 0.5,
   height: undefined, 
@@ -76,7 +76,7 @@ const Id = () => {
       },
       shadowOpacity: 0.25,
       shadowRadius: 3.84,
- }} source={require("./Id1.jpg")} />
+ }} source={require("./html/Id1.jpg")} />
       
       <Image style={{ width: '100%',  aspectRatio: 1,  alignSelf: 'center',
       maxWidth: '100%',
@@ -92,7 +92,7 @@ const Id = () => {
       },
       shadowOpacity: 0.25,
       shadowRadius: 3.84,
- }} source={require("./i_html_917ee4c1ab892591.jpg")}/>
+ }} source={require("./html/i_html_917ee4c1ab892591.jpg")}/>
     </ScrollView></SafeAreaView >
      
   );
